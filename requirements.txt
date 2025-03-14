@@ -1,0 +1,17 @@
+# General utilities
+tqdm
+dataclasses
+
+# NLP Libraries
+spacy
+transformers
+
+# Coreference resolution
+fastcoref
+maverick
+
+# Haystack for document processing
+haystack-ai
+
+# Additional dependencies (if not included in Haystack)
+fastcoref  # Needed for coreference resolution
